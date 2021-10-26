@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -45,7 +45,3 @@
                     </div>
 
                     <button>Register!</button>
-    </form>
-</body>
-
-</html>
